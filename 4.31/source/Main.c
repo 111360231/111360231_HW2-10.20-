@@ -18,7 +18,7 @@ int main(void)
 		printf("\n");
 	}
 
-	for (i = 9; i > 0; i = i - 2)
+	for (i = 7; i > 0; i = i - 2)
 	{
 		for (k = (9 - i) / 2; k > 0; k--)
 		{
